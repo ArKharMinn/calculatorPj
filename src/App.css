@@ -1,0 +1,22 @@
+.bg-image {
+  background-image: url('../public/dogcouple.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100%;
+}
+
+.min-100vh {
+  height: 100vh;
+}
+
+.calBg {
+  width:30% ;
+}
+
+.bgOutput {
+  background: radial-gradient(circle, red, rgb(197, 58, 23));
+}
+
+.btnColor {
+  background: radial-gradient(circle, red, rgb(197, 58, 23));
+}
